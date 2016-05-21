@@ -57,3 +57,5 @@ Need to do the following:
 	./Glasses_PoseEstimation_SelectFrames_Use
 
 <img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020763_2.jpg" height="280" width="280" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020535_4.jpg" height="280" width="280" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020834_2.jpg" height="280" width="280" >
