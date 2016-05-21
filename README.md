@@ -62,3 +62,15 @@ Need to do the following:
 <img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020444_1.jpg" height="100" width="100" >
 <img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/5828767_4.jpg" height="100" width="100" >
 <img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020834_2.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020788_4.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020758_3.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020627_4.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020458_0.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/5868761_3.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020446_4.jpg" height="100" width="100" >
+
+
+
+
+
+
