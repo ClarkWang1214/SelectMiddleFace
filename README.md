@@ -43,14 +43,10 @@ Need to do the following:
 	make -j2
 	cd ..
 
-////////////////////////////////////////////////////////////////////////////////////////////////////
-
 7. a) Update your video path you want to store in the src/main.cpp text;
       For example, change the default directory "Video/". to the path you want to load;
    b) Then, the program will create two directoies: "Images" and "FaceImages", in the "bin" directory by the side of excutable file "Glasses_PoseEstimation_SelectFrames_Use";  
    c) Finally, the result of key images and face images will be saved  in the two directories "Images" and "FaceImages", respectively.
-
-////////////////////////////////////////////////////////////////////////////////////////////////////
 
 8. test it with 
 	cd bin
