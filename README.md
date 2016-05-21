@@ -59,3 +59,5 @@ Need to do the following:
 <img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020763_2.jpg" height="150" width="150" >
 <img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020535_4.jpg" height="150" width="150" >
 <img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020834_2.jpg" height="150" width="150" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020426_4.jpg" height="150" width="150" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/5828767_4.jpg" height="150" width="150" >
