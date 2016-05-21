@@ -56,9 +56,9 @@ Need to do the following:
 	cd bin
 	./Glasses_PoseEstimation_SelectFrames_Use
 
-<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020535_4.jpg" height="150" width="150" >
-<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020763_2.jpg" height="150" width="150" >
-<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020426_4.jpg" height="150" width="150" >
-<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020444_1.jpg" height="150" width="150" >
-<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/5828767_4.jpg" height="150" width="150" >
-<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020834_2.jpg" height="150" width="150" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020535_4.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020763_2.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020426_4.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020444_1.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/5828767_4.jpg" height="100" width="100" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020834_2.jpg" height="100" width="100" >
