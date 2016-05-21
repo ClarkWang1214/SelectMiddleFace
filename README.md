@@ -1,3 +1,7 @@
+CMake Project - Select Middle Face Based on CLM-framework (Now the project has moved to new repositories: OpenFace - https://github.com/TadasBaltrusaitis/OpenFace Created by TadasBaltrusaitis) 
+
+
+
 This code has been tested on Ubuntu 14.04
 
 This requires cmake, OpenCV 3.0.0 (or newer), tbb and boost.
@@ -51,3 +55,5 @@ Need to do the following:
 8. test it with 
 	cd bin
 	./Glasses_PoseEstimation_SelectFrames_Use
+
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020763_2.jpg" height="280" width="600" >
