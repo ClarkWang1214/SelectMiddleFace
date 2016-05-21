@@ -56,4 +56,4 @@ Need to do the following:
 	cd bin
 	./Glasses_PoseEstimation_SelectFrames_Use
 
-<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020763_2.jpg" height="280" width="600" >
+<img src="https://github.com/ClarkWang12/SelectMiddleFace/blob/master/SelectMiddleFace_Use/bin/FaceImages/6020763_2.jpg" height="280" width="280" >
